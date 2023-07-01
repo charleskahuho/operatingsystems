@@ -1,0 +1,38 @@
+group members
+1. charles kahuho - c026-01-0941/2022
+2. emanuel kipkoech - c026-01-0963/2022
+3. eliaship mokaya - c026-01-0985/2022
+4. soloman ndimu - c026-01-0909-2022
+5. brenda kanani - c026-01-0967/2022
+
+commands
+1. cd - change current directory
+2. pwd - print working directory
+3. touch - create a file
+4. vi - edit a file using vim editor
+5. mkdir - create directory
+6. rm - remove a file
+7. rmdir -  remove an empty directory
+8. rm -r - removes a a direcory/file and its contents
+9. exit - exits the terminal
+10. clear - clears the contents of the active terminal
+11. ls - lists the contents of the active directory
+12. ls -l - listst the content in a list manner
+13, ls -a - list all files in a directory including the hidden files
+14. cd .. - navigates to the parent directory of the active directory
+15. mkdir -p - creates directories ina parent child manner
+16. cp - copies files
+17. mv - moves files and directories
+18. Display information about running processes.
+19. : Terminate processes by their process ID (PID).
+20 : Monitor system activity and view running processes.
+21  Show disk usage of files and directories.
+22  Display free disk space on filesystems.
+23 onfig: Configure and display network interfaces.
+24.g: Send ICMP echo requests to a host to check connectivity.
+25 : Securely access a remote server via the Secure Shell protocol.
+26 t: Download files from the internet via the command line.
+27 : Advanced Package Tool - used for package management (install, update, remove packages).
+28 g: Install, remove, and manage Debian packages directly.
+29 man: Display the manual page for a command, providing usage and documentation.
+30 history: View the command history list.
