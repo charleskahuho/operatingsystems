@@ -24,15 +24,15 @@ commands
 16. cp - copies files
 17. mv - moves files and directories
 18. Display information about running processes.
-19. : Terminate processes by their process ID (PID).
-20 : Monitor system activity and view running processes.
-21  Show disk usage of files and directories.
-22  Display free disk space on filesystems.
-23 onfig: Configure and display network interfaces.
-24.g: Send ICMP echo requests to a host to check connectivity.
-25 : Securely access a remote server via the Secure Shell protocol.
-26 t: Download files from the internet via the command line.
-27 : Advanced Package Tool - used for package management (install, update, remove packages).
-28 g: Install, remove, and manage Debian packages directly.
+19. kill - Terminate processes by their process ID (PID).
+20. top - Monitor system activity and view running processes.
+21. du - Show disk usage of files and directories.
+22. df - Display free disk space on filesystems.
+23. ifconfig: Configure and display network interfaces.
+24. ping: Send ICMP echo requests to a host to check connectivity.
+25. ssh - Securely access a remote server via the Secure Shell protocol.
+26. wget: Download files from the internet via the command line.
+27 . apt -Advanced Package Tool - used for package management (install, update, remove packages).
+28. dpkg: Install, remove, and manage Debian packages directly.
 29 man: Display the manual page for a command, providing usage and documentation.
 30 history: View the command history list.
