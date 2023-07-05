@@ -1,7 +1,16 @@
+
+/*
+group members
+1. charles kahuho - c026-01-0941/2022
+2. emanuel kipkoech - c026-01-0963/2022
+3. eliaship mokaya - c026-01-0985/2022
+4. soloman ndimu - c026-01-0909-2022
+5. brenda kanani - c026-01-0967/2022
+*/
 #include<stdio.h>
 void waitingTime(int at[], int bt[], int n)
 {
-    declare an array for the waiting time 
+ //declare an array for the waiting time 
 int wt[n];
 int i;
 //declare the first first element in the waiting time array as 0
@@ -20,7 +29,7 @@ float sum = 0;
 for (i = 0; i <n; i++)
 {
     // calculate the sum by using a for loop for all elements
-    sum = sum _wt[i];
+    sum = sum + wt[i];
 }
 //calculate the average
 avg = sum/ n;
